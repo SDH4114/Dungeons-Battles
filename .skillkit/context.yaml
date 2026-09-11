@@ -1,0 +1,29 @@
+version: 1
+project:
+  name: Dungeons-Battles
+  type: unknown
+  path: /Users/aminmammadov/giti/Dungeons-Battles
+stack:
+  languages: []
+  frameworks: []
+  libraries: []
+  styling: []
+  testing: []
+  databases: []
+  tools: []
+  runtime: []
+patterns:
+  apiStyle: rest
+skills:
+  installed: []
+  recommended: []
+  excluded: []
+  autoSync: true
+  securityLevel: medium
+  testingRequired: false
+agents:
+  detected: []
+  synced: []
+  disabled: []
+createdAt: 2026-02-24T19:28:08.795Z
+updatedAt: 2026-02-24T19:28:08.795Z
